@@ -1,0 +1,39 @@
+body {
+    background-color: aqua;
+}
+
+ol,
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a {
+    color: pink;
+}
+
+a:hover {
+    background-color: white;
+}
+
+img {
+    box-shadow: 10px 10px 5px 2px gray;
+}
+
+.past,
+.present,
+.future {
+    color: white;
+}
+
+.past {
+    background-color: blue;
+}
+
+.present {
+    background-color: purple;
+}
+
+.future {
+    background-color: plum;
+}
+
